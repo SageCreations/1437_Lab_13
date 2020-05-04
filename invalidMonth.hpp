@@ -3,10 +3,11 @@
 //  
 //
 //  Created by Bruce Gooch on 4/29/20.
+//  Edited by Edward Cruz on 5/3/20.
 //
 
-#ifndef invalidMonth_h
-#define invalidMonth_h
+#ifndef INVALIDMONTH_HPP
+#define INVALIDMONTH_HPP
 
 #include <string>
      

@@ -3,10 +3,11 @@
 //  
 //
 //  Created by Bruce Gooch on 4/29/20.
+//  Edited by Edward Cruz on 5/3/20.
 //
 
-#ifndef invalidDay_h
-#define invalidDay_h
+#ifndef INVALIDDAY_HPP
+#define INVALIDDAY_HPP
 
 #include <string>
      
@@ -17,7 +18,7 @@ class invalidDay
 public:
     invalidDay()
     {
-        message = "Date out of Range!"; //Depends on the Month
+        message = "Day out of Range!"; //Depends on the Month
     }
      
     invalidDay(string str)
